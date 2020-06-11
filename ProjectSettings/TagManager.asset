@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hinge
+  - pushable
+  - ground
+  - saw
+  - boxPush
+  - gear
+  - bigBox
+  - smallBox
+  - death
+  - restart
+  - findPlayer
+  - input
+  - cam1
+  - cam2
+  - ladder
+  - levitate
+  - head
+  - redEye
+  - blueEye
+  - checkPoint
+  - bigDeath
+  - bigGear
+  - lamp
+  - empty
+  - enemy
+  - bigGearCheck
+  - enemySpawn
+  - level4gear
+  - enemyLastScene
+  - lastSceneSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - bar
+  - saw
+  - gear
+  - death
+  - levitate
+  - grapple
+  - BigGear
+  - trapSpike
+  - trap
+  - enemy
+  - colliders
+  - lvl4door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 487581667
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 1906319447
+    locked: 0
+  - name: foreground
+    uniqueID: 113243291
+    locked: 0

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8f3829f-3c49-42a3-9a9a-80ff841c7f56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/pushSomeObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Die.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/trap-2p/switch_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Char/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/dieUnderBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/trap-2p/openDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Char/Move2Copy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Char/cameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level2photonStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Char/Move2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Char/pushPull.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/bigdeadWithBigGear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Char/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/addPlayersToCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/followPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.ik@1.0.8-preview.1/Editor/IKEditorManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/spawnLargeGear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/networkDestroyOnPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/activateSinVertical.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Network/PlayerSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/environment/parallax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/trap-2p-3/rotateHex.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Network/playerNameInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Network/NetworkController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Network/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/lightUpWithOpenBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/barDrop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/buttonOpenWithBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/addForceTop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/letGo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/spriteUpDelay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/redEyeblueEye.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/springUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/onewayRed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/multitargetcamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/openButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/rigidbodySync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/groundTagOnDelay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/setgetcam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/addForceOnImpact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/cameraSmooth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/levitate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Grapple/hingeHook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/sinRotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/goGreenForDelay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/loadLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/checkPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/grapplingHook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/openAndHold.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/springSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/plauAudioWhileMoving.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/reset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/showCamOnEnter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetworkPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/hookHold.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/assignPowers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/addForceToMe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/level/slingRope.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/endScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/sinMoveVertical.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/cameraWidenTo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ladder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/wallTrapAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/fallOnCollide.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/restart.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Animations/groundTagOnDelay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animations/openButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/addForceOnImpact.cs" />
+        <option value="$PROJECT_DIR$/Assets/wallTrapAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animations/onewayRed.cs" />
+        <option value="$PROJECT_DIR$/Assets/pushSomeObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/showCamOnEnter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animations/openAndHold.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animations/letGo.cs" />
+        <option value="$PROJECT_DIR$/Assets/plauAudioWhileMoving.cs" />
+        <option value="$PROJECT_DIR$/Assets/fallOnCollide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Network/NetworkController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Network/playerNameInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/level/hingeHook.cs" />
+        <option value="$PROJECT_DIR$/Assets/loadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/cameraWidenTo.cs" />
+        <option value="$PROJECT_DIR$/Assets/level/cameraSmooth.cs" />
+        <option value="$PROJECT_DIR$/Assets/lightUpWithOpenBool.cs" />
+        <option value="$PROJECT_DIR$/Assets/setgetcam.cs" />
+        <option value="$PROJECT_DIR$/Assets/level2photonStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/followPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/assignPowers.cs" />
+        <option value="$PROJECT_DIR$/Assets/redEyeblueEye.cs" />
+        <option value="$PROJECT_DIR$/Assets/Network/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Die.cs" />
+        <option value="$PROJECT_DIR$/Assets/Grapple/hingeHook.cs" />
+        <option value="$PROJECT_DIR$/Assets/buttonOpenWithBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/checkPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/goGreenForDelay.cs" />
+        <option value="$PROJECT_DIR$/Assets/spriteUpDelay.cs" />
+        <option value="$PROJECT_DIR$/Assets/grapplingHook.cs" />
+        <option value="$PROJECT_DIR$/Assets/rigidbodySync.cs" />
+        <option value="$PROJECT_DIR$/Assets/springSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/level/slingRope.cs" />
+        <option value="$PROJECT_DIR$/Assets/addPlayersToCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/dieUnderBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/endScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Network/PlayerSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/levitate.cs" />
+        <option value="$PROJECT_DIR$/Assets/activateSinVertical.cs" />
+        <option value="$PROJECT_DIR$/Assets/sinMoveVertical.cs" />
+        <option value="$PROJECT_DIR$/Assets/sinRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/springUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/spawnLargeGear.cs" />
+        <option value="$PROJECT_DIR$/Assets/networkDestroyOnPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/bigdeadWithBigGear.cs" />
+        <option value="$PROJECT_DIR$/Assets/ladder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Char/Move2.cs" />
+        <option value="$PROJECT_DIR$/Assets/multitargetcamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/addForceToMe.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDwIKLz3aOIrnIwZJgAjI5cIPc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8f3829f-3c49-42a3-9a9a-80ff841c7f56" name="Default Changelist" comment="" />
+      <created>1590076390866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590076390866</updated>
+      <workItem from="1590076394878" duration="1851000" />
+      <workItem from="1590118360305" duration="5080000" />
+      <workItem from="1590146025340" duration="16403000" />
+      <workItem from="1590217066783" duration="8642000" />
+      <workItem from="1590480632734" duration="17463000" />
+      <workItem from="1590510803076" duration="5125000" />
+      <workItem from="1590516106276" duration="4746000" />
+      <workItem from="1590820119431" duration="2056000" />
+      <workItem from="1590852974355" duration="26862000" />
+      <workItem from="1590934722900" duration="13823000" />
+      <workItem from="1591008875425" duration="9262000" />
+      <workItem from="1591055055531" duration="20298000" />
+      <workItem from="1591126153600" duration="2667000" />
+      <workItem from="1591247445923" duration="9819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="760" y="401" width="673" height="678" key="search.everywhere.popup" timestamp="1590938263227">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="759" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1856.1080@0.0.1856.1080" timestamp="1590218290510" />
+    <state x="760" y="401" width="673" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1590938263227" />
+  </component>
+</project>
