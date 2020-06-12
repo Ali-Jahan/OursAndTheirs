@@ -1,5 +1,5 @@
 # OursAndTheirs
-A 2D platformer game.\\
+A 2D platformer game.\n
 Alignment with the theme : 
 1 - All enemy speeds get faster exponentially (Enemy prefab)
 2 - All enemy spawners increase their rate of spawn Exponentially (enemySpawner prefab)
